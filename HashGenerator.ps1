@@ -1,4 +1,4 @@
-# $LitPath = "\\lcc-mdt2\applications\Zscaler\3.1.0.129\Zscaler-windows-3.1.0.129-installer.msi"
+# $LitPath = ""
 $LitPath = "C:\Users\akinzer\Desktop\FsWindowsAgent2.15.0.msi"
 
 $SHA1 = Get-FileHash -Algorithm SHA1 -literalpath $LitPath
